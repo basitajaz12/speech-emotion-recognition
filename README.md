@@ -5,6 +5,7 @@ Speech Emotion Recognition (SER)
 
 Hi Thats my final year project, this project implements a Speech Emotion Recognition system that classifies human emotions from speech audio using machine learning and deep learning techniques.
 The system is trained on the RAVDESS dataset and uses CNN-LSTM and SVM models for emotion classification.
+Get DATASET from this link : https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
 
 🎯 Features
 
